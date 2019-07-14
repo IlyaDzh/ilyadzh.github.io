@@ -1,1 +1,1 @@
-[Open] (ilyadzh.github.io)
+[Open] (https://ilyadzh.github.io/)
