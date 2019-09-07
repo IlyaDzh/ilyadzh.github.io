@@ -1,0 +1,72 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: flex;
+    padding-left: 10px;
+}
+
+nav li i {
+    padding-top: 12px;
+    color: rgb(255, 255, 255);
+}
+
+.logo {
+    max-width: 75px;
+}
+
+.contact-content, .test-content, .about-content, .films, .music, .books, .games {
+    margin-top: 50px;
+}
+
+/* Main */
+
+.main-image img {
+    border-radius: 50%;
+    border: 5px solid #563d7c;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+    max-height: 290px;
+    transition: max-height 0.2s ease;
+    margin: auto;
+}
+
+.main-image img:hover {
+    max-height: 300px;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.lab-work {
+    margin-top: 20px;
+}
+
+.lab__name {
+    font-style: italic;
+    font-weight: 500;
+}
+
+.main-image {
+    display: flex;
+    height: 340px;
+}
+
+/* About */
+
+.about__title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Entertainment */
+
+.list-anchor li {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+/*  */
