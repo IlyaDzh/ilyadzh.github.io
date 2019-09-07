@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(../img/background.png)
+    background-color: whitesmoke;
 }
 
 nav li {
@@ -22,7 +22,7 @@ nav li i {
     max-width: 75px;
 }
 
-.contact-content, .test-content, .about-content, .films, .music, .books, .games {
+.content, .films, .music, .books, .games {
     margin-top: 50px;
 }
 
@@ -73,4 +73,8 @@ nav li i {
     padding-right: 8px;
 }
 
-/*  */
+/* Study */
+
+.place__desc {
+    font-size: 17px;
+}
