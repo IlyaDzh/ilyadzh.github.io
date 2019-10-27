@@ -6,3 +6,38 @@ body {
 canvas {
     display: block;
 }
+
+.content {
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 48%;
+    position: absolute;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 70px 180px;
+    color: #000;
+    outline: 2px solid #ffffff5e;
+    outline-offset: 20px;
+}
+
+.welcome {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.line {
+    width: 80px;
+    border: 1px solid #000;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.title {
+    width: 300px;
+    font-size: 84px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: .85;
+    margin-bottom: 28px;
+    margin-top: 0;
+}
