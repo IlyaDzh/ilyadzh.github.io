@@ -13,10 +13,10 @@ canvas {
     top: 48%;
     position: absolute;
     text-align: center;
-    background: rgba(234, 187, 0, 0.84);
+    background: rgba(255, 255, 255, 0.5);
     padding: 70px 180px;
     color: #000;
-    outline: 2px solid #efc809;
+    outline: 2px solid #ffffff5e;
     outline-offset: 20px;
 }
 
